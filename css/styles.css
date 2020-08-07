@@ -1,3 +1,44 @@
+.green-1 { 
+  background-color: #c2f0c2; 
+} 
+ 
+ 
+.green-2 { 
+  background-color: #33cc33; 
+} 
+ 
+ 
+.blue-1 { 
+  background-color: #cce0ff; 
+} 
+ 
+ 
+.blue-2 { 
+  background-color: #0066ff; 
+} 
+ 
+ 
+.red-1 { 
+  background-color: #ffcccc; 
+} 
+ 
+ 
+.red-2 { 
+  background-color: #ff0000; 
+} 
+ 
+ 
+.header { 
+  width: 100%; 
+  height: auto; 
+} 
+ 
+ 
+img { 
+  width: 90px; 
+  height: auto; 
+} 
+
 @media (min-width: 1200px) { 
   .container, .container-sm, .container-md, .container-lg, .container-xl { 
     max-width: 100%; 
